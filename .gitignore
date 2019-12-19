@@ -129,8 +129,5 @@ yarn-error.log*
 # Webstorm
 .idea/
 
-<<<<<<< HEAD
 .babelrc
-=======
-.babelrc
->>>>>>> 1f2d7a510b6d167a62a0c2dbd36af92be8832b7f
+
